@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hello, I'm Dhara 
+<a href="www.linkedin.com/in/dharapatel730"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**dpatel730/dpatel730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a rising senior at Rutgers University majoring in Information Technology and minoring in Business Administration and Human Resource Mangement. Currently I am pursuing my CompTIA A+ certification. I am passionate about technology, cybersecurity, and solving real-world problems through hands-on projects.
 
-Here are some ideas to get you started:
+## Objective
+I am passionate about cybersecurity and eager to gain more hands-on experience through internships or entry-level work opportunities. My goal is to build a strong foundation in areas like threat detection, log analysis, and incident response. I hope to grow into a Tier 1 SOC Analyst role where I can apply my skills, contribute to protecting systems in real-world environments, and continue learning from experienced professionals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Python Scriptin & Logic                       | [Beginner Python Projects](https://github.com/yourusername/beginner-python-projects)|
+| Event-Driven Programming & Logging            | [Keylogger](https://github.com/yourusername/keylogger-python)|
+| Authentication & Token Verification           | [2FA TOTP Authenticator](https://github.com/yourusername/python-2fa-authenticator)|
+| API Integration & Data Analysis               | [COVID-19 Vaccination ETL](https://github.com/yourusername/beginner-python-projects)|
+| Data Visualization with Matplotlib            |[COVID-19 Vaccination ETL](https://github.com/yourusername/beginner-python-projects)|
+| String & List Manipulation                    | [List & Tuple Practice](https://github.com/yourusername/beginner-python-projects)|
+
+## Tools
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
+
+
+## Certifications
+<div>
+  <img src="https://img.shields.io/badge/-CompTIA_A%2B_(in_progress)-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JPMorgan_Cybersecurity_Simulation-0071C5?&style=for-the-badge&logo=JPMorgan&logoColor=white" />
+</div>
+
+### 🧾 Details
+- **JPMorgan Chase & Co. Cybersecurity Job Simulation**  
+  Completed via [Forage](https://theforage.com/) – August 2024  
+  Covered:
+  - Fraud dataset analysis
+  - Application security fundamentals
+  - Building a spam email classifier
+ 
+
+## Projects
+- Keylogger in Python  
+- 2FA TOTP Authenticator  
+- Beginner Python Projects
