@@ -11,7 +11,7 @@ I am passionate about cybersecurity and eager to gain more hands-on experience t
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Python Scriptin & Logic                       | [Beginner Python Projects](https://github.com/yourusername/beginner-python-projects)|
-| Event-Driven Programming & Logging            | [Keylogger](https://github.com/yourusername/keylogger-python)|
+| Event-Driven Programming & Logging            | <a href="https://github.com/dpatel730/Keylogger-in-Python-/tree/main">Keylogger In Python</a> |
 | Authentication & Token Verification           | [2FA TOTP Authenticator](https://github.com/yourusername/python-2fa-authenticator)|
 | API Integration & Data Analysis               | [COVID-19 Vaccination ETL](https://github.com/yourusername/beginner-python-projects)|
 | Data Visualization with Matplotlib            |[COVID-19 Vaccination ETL](https://github.com/yourusername/beginner-python-projects)|
@@ -40,6 +40,6 @@ I am passionate about cybersecurity and eager to gain more hands-on experience t
  
 
 ## Projects
-- Keylogger in Python  
+-  <a href="https://github.com/dpatel730/Keylogger-in-Python-/tree/main">Keylogger In Python</a>  
 - 2FA TOTP Authenticator  
 - Beginner Python Projects
