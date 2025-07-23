@@ -15,7 +15,7 @@ I am passionate about cybersecurity and eager to gain more hands-on experience t
 | Authentication & Token Verification           | <a href="https://github.com/dpatel730/2FA-TOTP-Authenticator/tree/main">2FA TOTP Authenticator</a>|
 | API Integration & Data Analysis               | <a href="https://github.com/dpatel730/COVID-19-Vaccinations-ETL/tree/main">COVID-19 Vaccinations ETL</a>|
 | Data Visualization with Matplotlib            | <a href="https://github.com/dpatel730/COVID-19-Vaccinations-ETL/tree/main">COVID-19 Vaccinations ETL</a>|
-| String & List Manipulation                    | [List & Tuple Practice](https://github.com/yourusername/beginner-python-projects)|
+| String & List Manipulation                    | <a href="https://github.com/dpatel730/List-Tuple-Practice/tree/main">List & Tuple Practice ETL</a>|
 
 ## Tools
 <div>
