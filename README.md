@@ -13,8 +13,8 @@ I am passionate about cybersecurity and eager to gain more hands-on experience t
 | Python Scriptin & Logic                       | <a href="https://github.com/dpatel730/Beginner-Python-Projects/tree/main">Beginner Python Projects</a>|
 | Event-Driven Programming & Logging            | <a href="https://github.com/dpatel730/Keylogger-in-Python-/tree/main">Keylogger In Python</a> |
 | Authentication & Token Verification           | <a href="https://github.com/dpatel730/2FA-TOTP-Authenticator/tree/main">2FA TOTP Authenticator</a>|
-| API Integration & Data Analysis               | [COVID-19 Vaccination ETL](https://github.com/yourusername/beginner-python-projects)|
-| Data Visualization with Matplotlib            |[COVID-19 Vaccination ETL](https://github.com/yourusername/beginner-python-projects)|
+| API Integration & Data Analysis               | <a href="https://github.com/dpatel730/COVID-19-Vaccinations-ETL/tree/main">COVID-19 Vaccinations ETL</a>|
+| Data Visualization with Matplotlib            | <a href="https://github.com/dpatel730/COVID-19-Vaccinations-ETL/tree/main">COVID-19 Vaccinations ETL</a>|
 | String & List Manipulation                    | [List & Tuple Practice](https://github.com/yourusername/beginner-python-projects)|
 
 ## Tools
