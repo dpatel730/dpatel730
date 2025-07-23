@@ -1,4 +1,4 @@
-# Hello, I'm Dhara 
+# Hello, I'm Dhara!
 <a href="www.linkedin.com/in/dharapatel730"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a rising senior at Rutgers University majoring in Information Technology and minoring in Business Administration and Human Resource Mangement. Currently I am pursuing my CompTIA A+ certification. I am passionate about technology, cybersecurity, and solving real-world problems through hands-on projects.
